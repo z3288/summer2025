@@ -1,7 +1,3 @@
 -----------------
-
-## First thing, test
-
+Test
 -----------------
-
-### This should work
