@@ -23,7 +23,6 @@
   - The ADF test originally reported that all 30-minute intervals were stationary, why?
     Some segments must be non-stationary, find a test that is more critical.
 - [ ] Remove outliers; the data was unaccurate because another instrument influenced it
-  - 
 - [ ] Attend LICOR Eddy Covariance Workshop; even more in-depth learning
 - [ ] Look into the noise distribution of 'correct' data
 - [ ] Compare the 'correct' data noise distribution to the 'incorrect' data
