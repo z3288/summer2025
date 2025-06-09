@@ -16,6 +16,8 @@
 
 -----------------
 **Week 3**<br>*Week of June 09 - June 13*
-- [ ] Obtain all Viasala aqt and wxt data
+- [x] Obtain all Viasala aqt and wxt data
 - [ ] Confirm Variables in Dataset
+- [ ] Average data over different time scales (1 min, 2 min, 5 min, 10 min, 15 min, etc.) and save the processed data in a new NetCDF files separately
+- [ ] Plot pairs of variables with pythonic equivalent of "ggpairs" from R
 - [ ] etc
