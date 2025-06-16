@@ -19,6 +19,14 @@
 - [x] Obtain all Viasala aqt and wxt data
 - [x] Confirm Variables in Dataset
 - [x] Add new directories for dataset
-- [ ] Average data over different time scales (1 min, 2 min, 5 min, 10 min, 15 min, etc.) and save the processed data in a new NetCDF files separately
-- [ ] Plot pairs of variables with pythonic equivalent of "ggpairs" from R (this was done using seaborn)
+- [x] Average data over different time scales (1 min, 2 min, 5 min, 10 min, 15 min, etc.) and save the processed data in a new NetCDF files separately
+- [x] Plot pairs of variables with pythonic equivalent of "ggpairs" from R (this was done using seaborn)
+- [ ] etc
+
+-----------------
+**Week 4**<br>*Week of June 16 - June 20*
+- [x] Filter out variables from aqt and wxt data
+- [?] Make U and V variables from wind speed and direction 
+- [ ] Normalize Variables
+- [ ] Apply K-Means clustering
 - [ ] etc
