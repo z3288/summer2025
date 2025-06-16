@@ -26,7 +26,7 @@
 -----------------
 **Week 4**<br>*Week of June 16 - June 20*
 - [x] Filter out variables from aqt and wxt data
-- [?] Make U and V variables from wind speed and direction 
+- [x] Make U and V variables from wind speed and direction 
 - [ ] Normalize Variables
 - [ ] Apply K-Means clustering
 - [ ] etc
