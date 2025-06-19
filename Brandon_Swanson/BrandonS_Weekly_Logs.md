@@ -27,6 +27,8 @@
 **Week 4**<br>*Week of June 16 - June 20*
 - [x] Filter out variables from aqt and wxt data
 - [x] Make U and V variables from wind speed and direction 
-- [ ] Normalize Variables
-- [ ] Apply K-Means clustering
-- [ ] etc
+- [x] Normalize Variables using Standardization (aka mean removal and variance scaling)
+- [x] Apply K-Means clustering
+- [x] Plot Pair Plots of K-Means clusters
+- [x] Plot Box Plots of variables from clusters
+- [x] Also added time dimension since it got unintentionally removed (etc)
