@@ -32,3 +32,10 @@
 - [x] Plot Pair Plots of K-Means clusters
 - [x] Plot Box Plots of variables from clusters
 - [x] Also added time dimension since it got unintentionally removed (etc)
+
+-----------------
+**Week 5**<br>*Week of June 23 - June 27*
+- [ ] Clean up code
+- [ ] Make final plots and figures
+- [ ] etc
+- [ ] (This week I worked from home on June 23 and 27th. June 23rd was due to some issues that occurred over the weekend)
