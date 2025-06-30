@@ -36,7 +36,14 @@
 -----------------
 **Week 5**<br>*Week of June 23 - June 27*
 - [x] Determine the best number of clusters with an elbow plot
+- [x] Make Mosaic plots
 - [ ] Clean up code
 - [ ] Make final plots and figures (including mosaic plot if possible)
-- [ ] etc
 - [ ] (This week I worked from home on June 23 and 27th. June 23rd was due to some issues that occurred over the weekend)
+- [ ] etc
+
+-----------------
+**Week 5**<br>*Week of June 30 - July 4*
+- [ ] Clean up code
+- [ ] Make final plots and figures
+- [ ] etc
