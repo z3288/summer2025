@@ -44,6 +44,13 @@
 
 -----------------
 **Week 5**<br>*Week of June 30 - July 4*
-- [ ] Clean up code
-- [ ] Make final plots and figures
+- [x] Clean up code
+- [x] Make final plots and figures
+- [ ] etc
+
+-----------------
+**Week 6**<br>*Week of July 7 - July 11*
+- [ ] Produce Title for Poster
+- [ ] Clean up figures
+- [ ] Produce new dataset
 - [ ] etc
