@@ -50,7 +50,14 @@
 
 -----------------
 **Week 6**<br>*Week of July 7 - July 11*
-- [ ] Produce Title for Poster
+- [x] Produce Title for Poster
+- [x] Produce new dataset
 - [ ] Clean up figures
-- [ ] Produce new dataset
+- [ ] etc
+
+-----------------
+**Week 7**<br>*Week of July 14 - July 18*
+- [ ] Clean up figures
+- [ ] Make poster
+- [ ] Make write up on my figures
 - [ ] etc
