@@ -1,9 +1,9 @@
 -----------------
-# **This page is for Brandon Swanson's SULI weekly logs and code storage for the Summer 2025 SULI appointment**
+# **This page is for Brandon Swanson's SULI code storage, figures, research report, and weekly logs for the Summer 2025 SULI appointment**
 #### *Coded by Brandon Swanson<br>Mentored by Bhupendra Raut and Joe O'Brien*
 
 # Hello
-## Below is some important figures produced from the Jupyter Notebook files during my appointment at Argonne National Labratory. I have also included my Poster and Research Report Paper on the findings from the research done here at Argonne National Labratory<br>Take a look at the weekly logs for what happened evey week of this appointment if interested
+## Below is some important figures produced from the Jupyter Notebook files during my appointment at Argonne National Labratory. I have also included my Poster and Research Report Paper on the findings from the research done here at Argonne National Labratory. Take a look at the weekly logs for what happened evey week of this appointment if interested
 -----------------
 # **Important Figures**
 ## Figure 1<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Fig1.png "Figure 1")<br>Variable treemaps for each of the five clusters, where the tile area reflects the standardized deviation of each pollutant or meteorological variable from its overall mean. The negative values are below the standard deviation and positive values are above the standard deviation
@@ -12,6 +12,6 @@
 
 ## Figure 3<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Fig3.png "Figure 3")<br>Boxplots of air quality and meteorological variables by cluster, illustrating distributions in particulate matter, gases, temperature, dewpoint, and wind components. Each cluster’s unique signature – ranging from intense smoke and smog to nocturnal and background conditions – is clearly differentiated by the position and spread of the boxes
 -----------------
-# **Research Report Paper**
+# **Research Report Paper (still need to reread and finalize paper)**
 ## ![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Research%20Project%20Report/Unsupervised%20identification%20of%20events%20in%20Chicago%20air%E2%80%90quality%20data-1.jpg "Page 1")<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Research%20Project%20Report/Unsupervised%20identification%20of%20events%20in%20Chicago%20air%E2%80%90quality%20data-2.jpg "Page 2")<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Research%20Project%20Report/Unsupervised%20identification%20of%20events%20in%20Chicago%20air%E2%80%90quality%20data-3.jpg "Page 3")<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Research%20Project%20Report/Unsupervised%20identification%20of%20events%20in%20Chicago%20air%E2%80%90quality%20data-4.jpg "Page 4")<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Research%20Project%20Report/Unsupervised%20identification%20of%20events%20in%20Chicago%20air%E2%80%90quality%20data-5.jpg "Page 5")<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Research%20Project%20Report/Unsupervised%20identification%20of%20events%20in%20Chicago%20air%E2%80%90quality%20data-6.jpg "Page 6")
 -----------------
