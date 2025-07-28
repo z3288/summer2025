@@ -57,7 +57,21 @@
 
 -----------------
 **Week 7**<br>*Week of July 14 - July 18*
-- [ ] Clean up figures
-- [ ] Make poster
+- [x] Clean up figures
+- [x] Make poster
 - [ ] Make write up on my figures
 - [ ] etc
+
+-----------------
+**Week 8**<br>*Week of July 21 - July 25*
+- [x] Write paper
+- [ ] Make write up on my figures
+
+-----------------
+**Week 9**<br>*Week of July 28 - August 1*
+- [ ] Make write up on my figures (on readme)
+- [ ] Package code
+- [ ] Make Peer review
+- [ ] Make general audience abstract
+- [ ] Upload all deliverables
+- [ ] Finalize SULI internship
