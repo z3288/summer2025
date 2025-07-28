@@ -7,9 +7,7 @@
 -----------------
 # **Figures**
 
-## Figure 1
-![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Fig1.png "Figure 1")
-#### Variable treemaps for each of the five clusters, where the tile area reflects the standardized deviation of each pollutant or meteorological variable from its overall mean. The negative values are below the standard deviation and positive values are above the standard deviation
+## Figure 1<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Fig1.png "Figure 1")<br>#### Variable treemaps for each of the five clusters, where the tile area reflects the standardized deviation of each pollutant or meteorological variable from its overall mean. The negative values are below the standard deviation and positive values are above the standard deviation
 
 
 
