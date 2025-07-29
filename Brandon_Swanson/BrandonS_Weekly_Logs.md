@@ -69,9 +69,9 @@
 
 -----------------
 **Week 9**<br>*Week of July 28 - August 1*
-- [ ] Make write up on my figures (on readme)
+- [x] Make write up on my figures (on readme)
 - [ ] Package code
 - [ ] Make Peer review
-- [ ] Make general audience abstract
+- [x] Make general audience abstract
 - [ ] Upload all deliverables
 - [ ] Finalize SULI internship

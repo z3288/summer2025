@@ -12,6 +12,9 @@
 
 ## Figure 3<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Fig3.png "Figure 3")<br>Boxplots of air quality and meteorological variables by cluster, illustrating distributions in particulate matter, gases, temperature, dewpoint, and wind components. Each cluster’s unique signature – ranging from intense smoke and smog to nocturnal and background conditions – is clearly differentiated by the position and spread of the boxes
 -----------------
-# **Research Report Paper (still need to reread and finalize paper)**
+# **Poster**
+## ![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Poster/Swanson_Brandon_SULI_EVS_Resubmit-1.jpg "Poster")
+-----------------
+# **Research Report Paper**
 ## ![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Research%20Project%20Report/Unsupervised%20identification%20of%20events%20in%20Chicago%20air%E2%80%90quality%20data-1.jpg "Page 1")<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Research%20Project%20Report/Unsupervised%20identification%20of%20events%20in%20Chicago%20air%E2%80%90quality%20data-2.jpg "Page 2")<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Research%20Project%20Report/Unsupervised%20identification%20of%20events%20in%20Chicago%20air%E2%80%90quality%20data-3.jpg "Page 3")<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Research%20Project%20Report/Unsupervised%20identification%20of%20events%20in%20Chicago%20air%E2%80%90quality%20data-4.jpg "Page 4")<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Research%20Project%20Report/Unsupervised%20identification%20of%20events%20in%20Chicago%20air%E2%80%90quality%20data-5.jpg "Page 5")<br>![alt text](https://github.com/z3288/summer2025/blob/main/Brandon_Swanson/Research%20Project%20Report/Unsupervised%20identification%20of%20events%20in%20Chicago%20air%E2%80%90quality%20data-6.jpg "Page 6")
 -----------------
