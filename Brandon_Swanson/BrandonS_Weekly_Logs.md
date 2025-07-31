@@ -43,35 +43,35 @@
 - [ ] etc
 
 -----------------
-**Week 5**<br>*Week of June 30 - July 4*
+**Week 6**<br>*Week of June 30 - July 4*
 - [x] Clean up code
 - [x] Make final plots and figures
 - [ ] etc
 
 -----------------
-**Week 6**<br>*Week of July 7 - July 11*
+**Week 7**<br>*Week of July 7 - July 11*
 - [x] Produce Title for Poster
 - [x] Produce new dataset
 - [ ] Clean up figures
 - [ ] etc
 
 -----------------
-**Week 7**<br>*Week of July 14 - July 18*
+**Week 8**<br>*Week of July 14 - July 18*
 - [x] Clean up figures
 - [x] Make poster
 - [ ] Make write up on my figures
 - [ ] etc
 
 -----------------
-**Week 8**<br>*Week of July 21 - July 25*
+**Week 9**<br>*Week of July 21 - July 25*
 - [x] Write paper
 - [ ] Make write up on my figures
 
 -----------------
-**Week 9**<br>*Week of July 28 - August 1*
+**Week 10**<br>*Week of July 28 - August 1*
 - [x] Make write up on my figures (on readme)
-- [ ] Package code
-- [ ] Make Peer review
+- [x] Package code
+- [x] Make Peer review
 - [x] Make general audience abstract
-- [ ] Upload all deliverables
-- [ ] Finalize SULI internship
+- [x] Upload all deliverables
+- [x] Finalize SULI internship
