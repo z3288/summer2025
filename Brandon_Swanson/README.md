@@ -1,7 +1,7 @@
 -----------------
 # **This page is for Brandon Swanson's SULI code storage, figures, research report, and weekly logs for the Summer 2025 SULI appointment**
 ### *Coded by Brandon Swanson<br>Mentored by Bhupendra Raut and Joe O'Brien*
-
+-----------------
 ### Hello<br>Below are some important figures produced from the Jupyter Notebook files during my appointment at Argonne National Labratory. I have also included my Poster and Research Report Paper on the findings from the research done here at Argonne National Labratory. Take a look at the weekly logs for what happened evey week of this appointment if interested.
 -----------------
 # **Important Figures**
